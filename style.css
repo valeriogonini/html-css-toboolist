@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+ul,ol,menu{
+    list-style: none;
+}
 .titlelogo{
     background-color: white;
     
@@ -12,8 +15,9 @@ body{
     background-color: lightgray;
 }
 .container{
-    max-width: 1000px;
+    max-width: 1024px;
     margin: 0 auto;
+    
 }
 
 .logo{
@@ -24,4 +28,47 @@ body{
 .title{
     font-size: 50px;
     vertical-align: middle;
+}
+.pulsanti{
+    
+    margin-top: 80px;
+
+    
+    
+}
+.addtask{
+    background-color: blue;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    border: 1px solid blue;
+}
+.secondtask{
+    margin-left: 2px;
+    border: 1px solid blue;
+    background-color: white;
+    padding: 5px;
+    color: blue;
+    border-radius: 5px;
+}
+.titlelist{
+    font-size: 30px;
+    font-weight: 900;
+
+}
+.list{
+   margin-top: 50px;
+}
+.firstedit{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+
+}
+.plist{
+    font-weight: 600;
+    font-size: 20px;
 }
