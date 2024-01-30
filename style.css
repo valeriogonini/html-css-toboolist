@@ -14,19 +14,28 @@ ul,ol,menu{
     
     
 }
+
+.padding {
+    margin-left: 20px;
+   
+
+}
+
 body{
     background-color: lightgray;
 }
 .background{
     background-color: white;
-    margin-top: 10px;
+    
     border-radius: 5px;
+   
    
     
 }
 .container{
     max-width: 1024px;
     margin: 0 auto;
+    
     
 }
 
@@ -81,8 +90,8 @@ body{
 
 }
 .plist{
-    font-weight: 600;
-    font-size: 20px;
+   
+    font-size: 15px;
     padding-top: 20px;
 }
 .editorial{
@@ -140,4 +149,17 @@ body{
     border-radius: 10px;
     font-size: 10px;
     padding: 5px;
+}
+.negative{
+    padding: 5px;
+    color: red;
+}
+.accept{
+    padding: 5px;
+    color: green;
+
+}
+.linea{
+    border-bottom: 2px solid gray;
+    margin-top: 50px;
 }
