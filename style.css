@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titlelogo{
+    background-color: white;
+    
+    
+}
+body{
+    background-color: lightgray;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logo{
+    vertical-align: middle;
+    margin-left: 50px;
+
+}
+.title{
+    font-size: 50px;
+    vertical-align: middle;
+}
