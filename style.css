@@ -10,14 +10,19 @@ ul,ol,menu{
 }
 .titlelogo{
     background-color: white;
+    height: 70px;
     
     
 }
 body{
     background-color: lightgray;
 }
-.background.{
+.background{
     background-color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+   
+    
 }
 .container{
     max-width: 1024px;
@@ -60,6 +65,7 @@ body{
 .titlelist{
     font-size: 30px;
     font-weight: 900;
+    vertical-align: middle;
     
 
 }
