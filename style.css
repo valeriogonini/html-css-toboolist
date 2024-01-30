@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
 }
 ul,ol,menu{
     list-style: none;
@@ -13,6 +15,9 @@ ul,ol,menu{
 }
 body{
     background-color: lightgray;
+}
+.background.{
+    background-color: white;
 }
 .container{
     max-width: 1024px;
@@ -55,6 +60,7 @@ body{
 .titlelist{
     font-size: 30px;
     font-weight: 900;
+    
 
 }
 .list{
@@ -71,4 +77,61 @@ body{
 .plist{
     font-weight: 600;
     font-size: 20px;
+    padding-top: 20px;
+}
+.editorial{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.goals{
+    color: white;
+    background-color: rgb(176, 3, 156);
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.recruiting{
+    color: white;
+    background-color: rgb(4, 101, 58);
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.mobile{
+    color: white;
+    background-color: gold;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.editorialtwo{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.website{
+    color: white;
+    background-color: rgb(255, 0, 132);
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.sales{
+    color: white;
+    background-color: rgb(5, 248, 66);
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
+}
+.editorialfinal{
+    color: white;
+    background-color: rgb(4, 163, 155);
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px;
 }
