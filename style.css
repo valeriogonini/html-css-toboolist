@@ -44,7 +44,7 @@ body{
 .title{
     font-size: 50px;
     vertical-align: middle;
-    font-weight: 500;
+    font-weight: 900;
 }
 .pulsanti{
     
@@ -157,5 +157,5 @@ body{
 }
 .linea{
     border-bottom: 2px solid lightgray;
-    margin-top: 50px;
+    margin-top: 10px;
 }
