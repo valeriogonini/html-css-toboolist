@@ -1,7 +1,7 @@
 * {
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
+    font-family: 'Hind Madurai', sans-serif;
     font-family: 'Playfair Display', serif;
     font-family: 'Roboto', sans-serif;
 }
@@ -14,11 +14,8 @@ ul,ol,menu{
     
     
 }
-
-.padding {
-    margin-left: 20px;
-   
-
+.padding5{
+    padding: 3%;
 }
 
 body{
@@ -27,7 +24,7 @@ body{
 .background{
     background-color: white;
     
-    border-radius: 5px;
+    border-radius: 10px;
    
    
     
@@ -47,6 +44,7 @@ body{
 .title{
     font-size: 50px;
     vertical-align: middle;
+    font-weight: 500;
 }
 .pulsanti{
     
@@ -72,15 +70,13 @@ body{
     border-radius: 5px;
 }
 .titlelist{
-    font-size: 30px;
-    font-weight: 900;
+    font-size: 25px;
+    font-weight: 600;
     vertical-align: middle;
     
 
 }
-.list{
-   margin-top: 50px;
-}
+
 .firstedit{
     color: white;
     background-color: blue;
@@ -160,6 +156,6 @@ body{
 
 }
 .linea{
-    border-bottom: 2px solid gray;
+    border-bottom: 2px solid lightgray;
     margin-top: 50px;
 }
