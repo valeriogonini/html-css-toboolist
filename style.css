@@ -17,7 +17,7 @@ ul,ol,menu{
 }
 
 body{
-    background-color: lightgray;
+    background-color: rgb(234, 234, 234);
 }
 .background{
     background-color: white;
@@ -141,6 +141,6 @@ body{
 
 }
 .linea{
-    border-bottom: 2px solid lightgray;
+    border-bottom: 2px solid rgb(234, 234, 234);
     margin-top: 10px;
 }
