@@ -11,8 +11,6 @@ ul,ol,menu{
 .titlelogo{
     background-color: white;
     height: 70px;
-    
-    
 }
 .padding5{
     padding: 3%;
@@ -23,17 +21,11 @@ body{
 }
 .background{
     background-color: white;
-    
     border-radius: 10px;
-   
-   
-    
 }
 .container{
     max-width: 1024px;
-    margin: 0 auto;
-    
-    
+    margin: 0 auto;   
 }
 
 .logo{
@@ -47,11 +39,7 @@ body{
     font-weight: 900;
 }
 .pulsanti{
-    
     margin-top: 80px;
-
-    
-    
 }
 .addtask{
     background-color: blue;
@@ -61,7 +49,7 @@ body{
     color: white;
     border: 1px solid blue;
 }
-.secondtask{
+.addsection{
     margin-left: 2px;
     border: 1px solid blue;
     background-color: white;
@@ -73,10 +61,7 @@ body{
     font-size: 25px;
     font-weight: 600;
     vertical-align: middle;
-    
-
 }
-
 .firstedit{
     color: white;
     background-color: blue;
@@ -88,7 +73,7 @@ body{
 .plist{
    
     font-size: 15px;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 .editorial{
     color: white;
